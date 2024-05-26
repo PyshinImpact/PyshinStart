@@ -1,0 +1,15 @@
+# Sample site navigation bar links
+- title: Search
+  url: /search/
+- title: 服务
+  url: /service/
+- title: 录取项目
+  url: /program/
+- title: 过往案例
+  url: /case/
+- title: 团队成员
+  url: /member/
+# - title: Tags
+#   url: /tags/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
