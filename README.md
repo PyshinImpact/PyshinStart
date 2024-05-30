@@ -41,9 +41,9 @@ You also need to assign related programs to your new cases. To do this, you shou
 
 The member main page is `./member.md`. All members should be put under `./_members`. You should also put member image under `./images` and link them to your profile.
 
-### update side config
+### update site config
 
-The title, logo, and any other configurations can be found in `./_config.yml`. Do not change it unless you know what you are doing.
+The title, logo, and any other configurations of the whole site can be found in `./_config.yml`. Do not change it unless you know what you are doing.
 
 
 ## Test locally
