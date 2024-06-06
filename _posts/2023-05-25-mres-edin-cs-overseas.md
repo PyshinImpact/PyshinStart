@@ -7,16 +7,44 @@ author:
   picture: /images/service_demo_img.jpg
   name: 柴老师
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## 录取项目
+- **学校**：爱丁堡大学
+- **项目**：MRes CS
+- **录取年份**：2023年秋季
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 申请者信息
+- **毕业院校**：爱丁堡大学
+- **专业**：计算机科学
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 申请背景
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### 学术背景
+- **Overall GPA**：学位成绩83/100
+- **相关课程成绩**：4.0/4.0
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 研究经历
+- **项目**：2段非正式科研
+- **发表论文**：无
+
+### 实习及工作经历
+- **公司**：无
+- **职位**：无
+- **主要职责**：无
+
+### 推荐信
+- **推荐** 2封强推
+
+## 录取情况
+- **录取日期**：2023年4月15日
+- **奖学金**：全额奖学金(学费+生活费)
+
+## 申请建议及总结
+
+### 申请经验分享
+- **成功的关键因素**：提早准备，注重研究经历的积累和展示
+- **遇到的困难及解决方案**：详细描述应对策略
+
+### 建议与总结
+- **对未来申请者的建议**：提早准备，重视研究经历和个人陈述的撰写
+- **个人感想和总结**：这次申请让我学到了很多，对未来的职业发展也有了更明确的目标。
