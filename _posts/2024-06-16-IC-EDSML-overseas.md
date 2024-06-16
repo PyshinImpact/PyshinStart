@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】帝国理工学院 MSc EDSML"
 date:   2024-06-16 22:01:47 +0800
-categories: 帝国理工学院 EDSML
+categories: 帝国理工 EDSML
 author:
   picture: /images/service_demo_img.jpg
   name: Z老师
