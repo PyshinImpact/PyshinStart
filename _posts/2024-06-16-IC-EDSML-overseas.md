@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【海本】帝国理工学院 MSc EDSML"
-date:   2024s-06-16 12:00:00 +0800
+date:   2024-06-16 12:00:00 +0800
 categories: 帝国理工 MSc EDSML
 author:
   picture: /images/service_demo_img.jpg
