@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】伦敦大学学院 MSc DS"
 date:   2024-06-16 12:00:00 +0800
-categories: 伦敦大学学院 DSML
+categories: 伦敦大学学院 MSc DSML
 author:
   picture: /images/service_demo_img.jpg
   name: Z老师
