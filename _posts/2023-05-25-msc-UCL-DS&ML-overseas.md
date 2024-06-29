@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】UCL MSc DS&ML"
 date:   2023-03-02 22:01:47 +0800
-categories: 伦敦大学学院 DS&ML
+categories: 伦敦大学学院 MSc CS DS ML
 author:
   picture: /images/service_demo_img.jpg
   name: 鲍师傅

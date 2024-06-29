@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【海本】伦敦大学 MPhil CS"
-date:   2024-06-11 20:01:47 +0800
+date:   2023-03-28 12:00:00 +0800
 categories: 剑桥 CS
 author:
   picture: /images/service_demo_img.jpg

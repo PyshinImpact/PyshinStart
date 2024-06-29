@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】爱丁堡大学 MSc AI"
 date:   2022-11-22 22:01:47 +0800
-categories: 爱丁堡大学 AI
+categories: 爱丁堡大学 MSc AI
 author:
   picture: /images/service_demo_img.jpg
   name: 鲍师傅

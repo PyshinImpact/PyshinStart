@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】爱丁堡大学 CS PhD"
 date:   2024-05-25 22:01:47 +0800
-categories: 爱丁堡 CS
+categories: 爱丁堡大学 PhD CS AI
 author:
   picture: /images/service_demo_img.jpg
   name: 柴老师

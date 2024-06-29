@@ -2,7 +2,7 @@
 layout: post
 title:  "【海本】帝国理工学院 MSc AI&ML"
 date:   2022-11-02 22:01:47 +0800
-categories: 帝国理工学院 AI&ML
+categories: 帝国理工学院 MSc CS AI ML
 author:
   picture: /images/service_demo_img.jpg
   name: 鲍师傅

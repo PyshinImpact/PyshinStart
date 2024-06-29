@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "【海本】伦敦政经 MSc CS"
-date:   2024-06-11 22:01:47 +0800
-categories: 伦敦政经 CS
+title:  "【海本】伦敦大学 MSc DSML"
+date:   2023-03-28 12:00:00 +0800
+categories: 伦敦大学学院 MScDSML
 author:
   picture: /images/service_demo_img.jpg
   name: 柴老师
 ---
 
 ## 录取项目
-- **学校**：伦敦政经
-- **项目**  MSc CS
+- **学校**：伦敦大学学院
+- **项目**  MSc DSML
 - **录取年份**：2023年秋季
 
 ## 申请者信息
 ### 教育经历
-- **毕业院校**：伦敦大学
+- **毕业院校**：伦敦大学学院
 - **专业**：经济统计
 - **Overall GPA**：一等学位
 - **相关课程成绩**：一等学位
